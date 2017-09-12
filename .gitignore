@@ -34,5 +34,6 @@
 # VS stuff
 *.vcxproj
 *.user
+Debug\
 
 log.txt
