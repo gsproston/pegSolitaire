@@ -33,6 +33,7 @@
 
 # VS stuff
 *.vcxproj
+*.filters
 *.user
 Debug/
 
